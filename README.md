@@ -1,1 +1,0 @@
-# Ministerio-Anatote.github.io
