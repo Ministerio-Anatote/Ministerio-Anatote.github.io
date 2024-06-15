@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-color: #123457;
 }
 
 body {
@@ -50,6 +50,11 @@ body {
   margin-bottom: 2rem;
 }
 
+.logo{
+  height: 100px;
+  
+  
+}
 .masthead-brand {
   margin-bottom: 0;
 }
@@ -78,10 +83,10 @@ body {
 
 @media (min-width: 48em) {
   .masthead-brand {
-    float: left;
+   // float: left;
   }
   .nav-masthead {
-    float: right;
+    //float: right;
   }
 }
 
