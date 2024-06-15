@@ -83,7 +83,13 @@ body {
   border-bottom-color: #fff;
 }
 
-
+#rounded {
+  
+    border-radius: 100px;
+    border: 5px solid #ffffff;
+    max-width: 300px;
+    
+}
 
 
 
@@ -92,7 +98,7 @@ body {
  */
 .cover {
   margin-top: 2.5rem;
-  padding: 2.5rem 1.5rem;
+  padding: .5rem 1.5rem;
   
 }
 .cover .btn-lg {
