@@ -39,7 +39,7 @@ body {
 }
 
 .cover-container {
-  max-width: 42em;
+   max-width: 60em;
 }
 
 
@@ -51,7 +51,7 @@ body {
 }
 
 .logo{
-  height: 100px;
+  max-height: 100px;
   
   
 }
@@ -81,14 +81,8 @@ body {
   border-bottom-color: #fff;
 }
 
-@media (min-width: 48em) {
-  .masthead-brand {
-   // float: left;
-  }
-  .nav-masthead {
-    //float: right;
-  }
-}
+
+
 
 
 /*
